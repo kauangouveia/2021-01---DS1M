@@ -14,7 +14,7 @@ public class App {
 		//contaDaAnaGomes.setTitular("Ana Gomes"); 
 		contaDaAnaGomes.setNumero ("111-98");
 		contaDaAnaGomes.setTipo("Poupança");
-		//contaDaAnaGomes.isAtiva (true);
+		contaDaAnaGomes.isAtiva (true);
 		contaDaAnaGomes.setChequeEspecial(200);
 		contaDaAnaGomes.getSaldo ();
 		contaDaAnaGomes.depositar(100);
